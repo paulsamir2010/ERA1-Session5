@@ -51,6 +51,8 @@ No of parameters in model = 593, 200
 
 /assets/images/Model Summary.png
 
+Model Summary.png
+
 ### Accuracy of the model
 
 Test Accuracy = 99.6 %
