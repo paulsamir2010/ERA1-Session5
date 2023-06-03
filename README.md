@@ -3,6 +3,9 @@
 
 ### About this Assignment
 
+To create a simple CNN based model using pytorch framework. Intention here is to make the code modular.
+Model is included in model.py and utility functions are included in utils.py, these modules are imported in main S5.ipynb file.
+
 ### Framework and main libraries used
 
 ### Organization - Modular Files
