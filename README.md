@@ -53,7 +53,7 @@ No of parameters in model = 593, 200
 
 Model Summary.png
 
-![image](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210914130327/100-Days-of-Code-with-GFG-Get-Committed-to-a-Challenge.png)
+![image](https://github.com/paulsamir2010/ERA1-Session5/blob/master/Model%20Summary.png)
 
 ### Accuracy of the model
 
