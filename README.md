@@ -49,10 +49,6 @@ Though not implemented here utils.py can also contain transforms code, accuracy 
 
 No of parameters in model = 593, 200
 
-/assets/images/Model Summary.png
-
-Model Summary.png
-
 ![image](https://github.com/paulsamir2010/ERA1-Session5/blob/master/Model%20Summary.png)
 
 ### Accuracy of the model
