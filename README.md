@@ -55,6 +55,8 @@ No of parameters in model = 593, 200
 
 Test Accuracy = 99.6 %
 
+![image](https://github.com/paulsamir2010/ERA1-Session5/blob/master/Accuracy.png)
+
 ### Future improvements
 
 In the current code, train and test function is included in main ipynb file, future scope of improvement is to modularize these functions, either move train and test function in model.py or create seperate train.py and test.py files.
