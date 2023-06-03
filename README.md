@@ -14,6 +14,10 @@ No of parameters in model = 593, 200
 
 Number of epoch = 20
 
+Optimizer = SGD
+
+Learning rate = 0.01
+
 Test Accuracy = 99.6 %
 
 ### Framework and main libraries used
