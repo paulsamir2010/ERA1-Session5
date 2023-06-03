@@ -22,7 +22,22 @@ Test Accuracy = 99.6 %
 
 ### Framework and main libraries used
 
+Framework = Pytorch
+
+Model trained on = Google colab
+
+Main libraries used stated below:
+
+import torch
+import torch.nn as nn
+import torch.nn.functional as F
+import torch.optim as optim
+from torchvision import datasets, transforms
+import matplotlib.pyplot as plt
+
 ### Organization - Modular Files
+
+CNN Model class Net is defined in model.py
 
 ### Model Parameters
 
