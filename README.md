@@ -53,6 +53,8 @@ No of parameters in model = 593, 200
 
 Model Summary.png
 
+![image](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210914130327/100-Days-of-Code-with-GFG-Get-Committed-to-a-Challenge.png)
+
 ### Accuracy of the model
 
 Test Accuracy = 99.6 %
