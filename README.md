@@ -49,6 +49,8 @@ Though not implemented here utils.py can also contain transforms code, accuracy 
 
 No of parameters in model = 593, 200
 
+/assets/images/Model Summary.png
+
 ### Accuracy of the model
 
 Test Accuracy = 99.6 %
