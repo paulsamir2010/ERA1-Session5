@@ -39,8 +39,20 @@ import matplotlib.pyplot as plt
 
 CNN Model class Net is defined in model.py
 
+Utility function like initialize_cuda is defined in utils.py. This function checks if gpu is available, if so sets the device to gpu else on cpu..
+
+Main file is S5.pynb, which imports the module model and utils
+
+Though not implemented here utils.py can also contain transforms code, accuracy function, graphs etc
+
 ### Model Parameters
+
+No of parameters in model = 593, 200
 
 ### Accuracy of the model
 
+Test Accuracy = 99.6 %
+
 ### Future improvements
+
+In the current code, train and test function is included in main ipynb file, future scope of improvement is to modularize these functions, either move train and test function in model.py or create seperate train.py and test.py files.
